@@ -1,4 +1,5 @@
 # Simpliest-DDIM-implemtation
+Use Pytorch to implement the famous diffusion model
 # train
 Use train.py to train, put your train dataset in the dataset folder
 # predict
