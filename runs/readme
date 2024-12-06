@@ -1,0 +1,1 @@
+All logs will be saved in here, use 'tensorboard --logdir=runs' to visualize the loss curve
